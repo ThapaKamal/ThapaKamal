@@ -25,23 +25,24 @@ I specialize in building secure, scalable, cloud-native backend systems using Ja
 ### Senior Associate / Java Architect  
 📍 Cognizant Technology Solutions (2021 – Present)
 
-- Designing enterprise-level software architecture
-- Building microservices architecture for large-scale systems
-- Defining architecture standards and engineering guidelines
-- Designing system decomposition strategies
-- Evaluating software architecture patterns
-- Leading integration and interoperability architecture
+- Designed backend architecture for enterprise automotive finance systems
+- Developed microservices supporting financial transaction workflows
+- Built Spring Batch processing systems integrated with enterprise platforms
+- Managed enterprise integrations using Apache Camel and JMS
+- Performed code review governance and architecture validation
+- Managed infrastructure deployments using Terraform and UDeploy
+- Monitored production systems using Splunk and Dynatrace Dashboards 
 
 ---
 
 ### Technical Lead  
 📍 JK Technosoft (2014 – 2021)
 
-- Led backend engineering teams for enterprise Java applications
-- Built REST APIs and event-driven distributed systems
-- Developed batch processing systems using Spring Batch
-- Implemented reactive and asynchronous programming solutions
-- Maintained engineering standards and code quality processes
+- Designed distributed microservices architecture for public safety platform
+- Developed backend integration services using Apache Camel and ActiveMQ
+- Implemented enterprise workflow automation modules
+- Built CI/CD release management pipeline
+- Developed validation framework using Cucumber testing Framework
 
 ---
 
@@ -125,46 +126,6 @@ I specialize in building secure, scalable, cloud-native backend systems using Ja
 
 ---
 
-## Featured Projects
-
-### Banking Enterprise Application
-
-Designed secure enterprise backend systems using:
-
-- Java
-- Spring Boot
-- Oracle DB
-- Microservices Architecture
-- Batch Processing Systems
-- API Security
-
----
-
-### AI Powered Loan Approval System
-
-Built intelligent approval workflow system using:
-
-- Spring Boot
-- Angular
-- Rule Engine
-- MySQL
-- REST API Integration
-
----
-
-### E-Commerce Platform Architecture
-
-Designed scalable marketplace architecture featuring:
-
-- Angular Frontend
-- Spring Boot Backend
-- MySQL
-- Payment Gateway Integration
-- MFA Security
-- Order Tracking System
-
----
-
 ## Certifications
 
 🏆 AWS Certified Java Developer
@@ -183,7 +144,7 @@ Designed scalable marketplace architecture featuring:
 
 - Advanced System Design
 - Kubernetes
-- AI Assisted Development
+- Claude AI Assisted Development
 - Cloud Architecture Patterns
 - Enterprise Security Engineering
 
