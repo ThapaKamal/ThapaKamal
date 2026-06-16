@@ -161,7 +161,7 @@ I specialize in building secure, scalable, cloud-native backend systems using Ja
 
 ⭐ Star Employee of Quarter (Twice)
 
-⭐ Excellent Performer of the Year – JK Technosoft
+⭐ Excellent Performer of the Year 
 
 ---
 
