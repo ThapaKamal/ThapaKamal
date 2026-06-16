@@ -139,13 +139,21 @@ I specialize in building secure, scalable, cloud-native backend systems using Ja
 ## Certifications
 
 🏆 AWS Certified Java Developer
+
 🏆	Enterprise Architecture Foundations
+
 🏆 AWS Infrastructure as Code With Terraform 
+
 🏆	Mastering Microservices with Java
+
 🏆	Microsoft Azure Fundamentals
+
 🏆	Google Cloud Platform Fundamentals
+
 🏆	Agile Project Management Certification
+
 🏆	Design Patterns in Enterprise Applications
+
 
 ---
 
