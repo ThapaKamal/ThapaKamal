@@ -8,6 +8,16 @@ I specialize in building secure, scalable, cloud-native backend systems using Ja
 
 ---
 
+## Connect With Me
+
+🔗 LinkedIn  www.linkedin.com/in/thapakamal 
+
+@ Email thapa.kamal@outlook.com
+
+📍 New Delhi, India
+
+---
+
 ## 🚀 Professional Summary
 
 - 💼 12+ years in Enterprise Software Development
@@ -147,14 +157,6 @@ I specialize in building secure, scalable, cloud-native backend systems using Ja
 - Claude AI Assisted Development
 - Cloud Architecture Patterns
 - Enterprise Security Engineering
-
----
-
-## Connect With Me
-
-🔗 LinkedIn  www.linkedin.com/in/thapakamal
-@ Email thapa.kamal@outlook.com
-📍 New Delhi, India
 
 ---
 
