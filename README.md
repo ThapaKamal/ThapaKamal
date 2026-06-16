@@ -152,9 +152,8 @@ I specialize in building secure, scalable, cloud-native backend systems using Ja
 
 ## Connect With Me
 
-🔗 LinkedIn  
-www.linkedin.com/in/thapakamal
-
+🔗 LinkedIn  www.linkedin.com/in/thapakamal
+@ Email thapa.kamal@outlook.com
 📍 New Delhi, India
 
 ---
