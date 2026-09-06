@@ -106,6 +106,7 @@ I specialize in building secure, scalable, cloud-native backend systems using Ja
 
 ### Messaging & Integration
 
+- JMS
 - Apache Kafka
 - RabbitMQ
 - Apache MQ
